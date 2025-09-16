@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hey ya👋<br>I'm Huy from Đak Lak (Viet Nam)<br>I'm an amateur frontend programmer</h1>
+<h1 align="center">Hey ya👋<br>I'm Huy from Viet Nam<br>I'm an amateur Back-end programmer</h1>
 
 ###
 
